@@ -57,19 +57,19 @@ I am a passionate software engineer, systems administrator, and network engineer
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://yorastudioplus.com">
+  <a style="text-decoration: none;" href="https://yorastudioplus.com">
     <img src="https://img.shields.io/badge/Yora_Studio-FF5722?style=for-the-badge&logo=world&logoColor=white" />
   </a>
-  <a href="https://github.com/RamazanMuslu">
+  <a style="text-decoration: none;" href="https://github.com/RamazanMuslu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/RamazanMuslu">
+  <a style="text-decoration: none;" href="https://huggingface.co/RamazanMuslu">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
-  <a href="https://youtube.com/@ddr8ram">
+  <a style="text-decoration: none;" href="https://youtube.com/@ddr8ram">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ddr8ram">
+  <a style="text-decoration: none;" href="https://instagram.com/ddr8ram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
