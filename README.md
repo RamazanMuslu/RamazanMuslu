@@ -50,8 +50,8 @@ I am a passionate software engineer, systems administrator, and network engineer
 ---
 
 ### 📊 GitHub Stats
-![Ramazan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamazanMuslu&show_icons=true&theme=transparent)
-![Ramazan's GitHub Stats](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RamazanMuslu&hide_title=false&layout=compact&theme=transparent&count_private=true)
+![Ramazan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamazanMuslu&show_icons=true&theme=gotham)
+![Ramazan's GitHub Stats](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RamazanMuslu&hide_title=false&layout=compact&theme=gotham&count_private=true)
 
 ---
 
